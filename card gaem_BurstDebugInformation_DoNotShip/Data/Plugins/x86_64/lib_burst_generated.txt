@@ -139,6 +139,7 @@ Library: lib_burst_generated
 --compilation-defines=MODULE_PHYSICS_2D_EXISTS
 --compilation-defines=MODULE_PARTICLE_SYSTEM_EXISTS
 --compilation-defines=TIMELINE_FRAMEACCURATE
+--compilation-defines=USING_PARTICLE_SYSTEM
 --linker-options=PdbAltPath="card gaem_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
 --output=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
@@ -178,6 +179,11 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
 --root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Core.ShaderLibrary.dll
 --root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Shaders.dll
+--root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.ProBuilder.Csg.dll
+--root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.ProBuilder.Poly2Tri.dll
+--root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.ProBuilder.dll
+--root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.ProBuilder.KdTree.dll
+--root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.ProBuilder.Stl.dll
 --assembly-folder=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoGetCSRTrampoline()--89425a97f3f500fa810ad03f0c382542
@@ -333,6 +339,7 @@ Library: lib_burst_generated
 --compilation-defines=MODULE_PHYSICS_2D_EXISTS
 --compilation-defines=MODULE_PARTICLE_SYSTEM_EXISTS
 --compilation-defines=TIMELINE_FRAMEACCURATE
+--compilation-defines=USING_PARTICLE_SYSTEM
 --linker-options=PdbAltPath="card gaem_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
 --output=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
@@ -372,6 +379,11 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
 --root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Core.ShaderLibrary.dll
 --root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Shaders.dll
+--root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.ProBuilder.Csg.dll
+--root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.ProBuilder.Poly2Tri.dll
+--root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.ProBuilder.dll
+--root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.ProBuilder.KdTree.dll
+--root-assembly=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\Unity.ProBuilder.Stl.dll
 --assembly-folder=C:\Users\JericJ\Documents\GitHub\Multiplayer-Card-Game\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoGetCSRTrampoline()--89425a97f3f500fa810ad03f0c382542
